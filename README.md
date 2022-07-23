@@ -1,7 +1,6 @@
 worid = World
 print(World)
 
-
 include<stdio.h>
 int main ()
 {
